@@ -26,3 +26,6 @@ Funkcija `magic_square` kreira magični kvadrat pomoću sledećeg procesa:
 ### Funkcija `print_magic_square`
 
 Funkcija `print_magic_square` ispisuje (prikazuje) matricu `magic_square` u komandnoj konzoli.
+
+![Primer](https://github.com/Zekiloni/python_zadatak_prm/blob/master/magicsquareexampe.png)
+
