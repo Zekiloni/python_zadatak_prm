@@ -6,8 +6,8 @@ Magični kvadrat je matrica dimenzija n x n čiji su elementi brojevi, čiji se 
 
 
 *Postoji biblioteka u Python-u za generisanje i proveru magičnih kvadrata. Ova biblioteka omogućava kreiranje različitih tipova magičnih kvadrata korišćenjem različitih brojeva, uključujući i pare brojeve, i pruža funkcije za proveru da li neki kvadrat zadovoljava kriterijume magičnosti.*
-
 `pip install magic_square` [PyPi](https://pypi.org/project/magic_square/).
+
 
 
 Funkcija `magic_square` kreira magični kvadrat pomoću sledećeg procesa:
