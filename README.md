@@ -1,6 +1,6 @@
 ## Magicni kvadrat
 
-Magicni kvadrat je matrica dimenzija n x n čiji su elementi brojevi, tako da se zbir svake vrste, kolone i dijagonale jednako.
+Magicni kvadrat je matrica dimenzija n x n čiji su elementi brojevi, čiji se zbir svih brojeva u svakoj koloni, svakom redu i u oba dijagonalna reda jednak.
 
 ### Funkcija `magic_square`
 
