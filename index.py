@@ -2,7 +2,7 @@ def magic_square(n):
     if n % 2 == 0:
         print("Unesite neparan broj.")
         return None
-    
+
     magic_square = [[0 for x in range(n)] for y in range(n)]
 
     magic_square = [[0 for x in range(n)] for y in range(n)]
@@ -42,7 +42,7 @@ def magic_square(n):
     return magic_square
 
 
-def print_magic_square(square):	
+def print_magic_square(square):
     n = len(square)
     for row in range(n):
         for col in range(n):
